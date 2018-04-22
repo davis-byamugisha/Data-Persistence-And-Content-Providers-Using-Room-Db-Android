@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_appointments"
+            android:icon="@drawable/ic_access_time_black_24dp"
+            android:title="Store Appointments (Room)" />
+        <item
+            android:id="@+id/nav_view_appointments"
+            android:icon="@drawable/ic_remove_red_eye_black_24dp"
+            android:title="View Appointments" />
+        <item
+            android:id="@+id/nav_providers"
+            android:icon="@drawable/ic_apps_black_24dp"
+            android:title="Hospitals Content provider" />
+
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/ic_contact_mail_black_24dp"
+            android:title="Contacts Content Provider" />
+
+    </group>
+
+    <item android:title="Other actions">
+        <menu>
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Exit" />
+        </menu>
+    </item>
+
+</menu>

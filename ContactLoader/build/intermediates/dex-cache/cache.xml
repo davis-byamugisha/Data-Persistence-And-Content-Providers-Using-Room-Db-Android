@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.7\21734c0092a5d3c3ec99510e50c1ff76bdf0c65a\rxjava-2.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21734c0092a5d3c3ec99510e50c1ff76bdf0c65a">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.7_abfb66c3d2e2cdd72ea9c16e4a0c54b4a0c2684f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_12247371990e7274070a20183859d2ae5b1ec729\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\72278849d7a0a7d043c42c5835f661a20c61ca0b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3bd7a10dd040a7a000723a80e222c81b30ec984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\6722a80b00e92061c755dca7de7e0825039264d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f7cd0253c6041079c4801ae13640eca7734c2e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\aef899ff586a6c4fda58bbdf101a5ee307b76ca5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a19a85f91c0712ee8cb3ad24ef9c4adf9c604b02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\50b00e01bbd73d9ebd33dcad065ce7cbfd1803aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b15703f632aee8e4e3c44bed6f95f65a873d1a2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\7ca402512b7c8939f97dada6fd97ad78f1099aab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df092d6705a61896dcb410c053a75fabc4b66cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\4324f3f0462800838b305dd9d3e2967060e1a222\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_509ab64490d0064cf607c609d822e3339d81403b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\bf2d980178cf7d4441eec427229620dca3b304e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f3ffef826fcbec3f5571d09fa0b084e55b7288a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\b233b2b8704b4cfb9b0af7f260eff31d76240405\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f82e82e30bb617a1de8d30daaffef933e7e9783\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_4ba0190ce49612fca4884a62c8e1bc1f59791dba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\ba807fbde70e4c6ea826f86550c27c69216ec1d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9b1f3ba9cc7fc23ccc98d40eec41ee0e0386ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Effects\Developer\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_96229c198a842fbe951829179da1559b9cfee3af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_7e30cb2932684778d63e7d8e3e13c73ca683ad12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\6e1dade821e8f6946a34795525fc3dd73adbfc35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5925896265d7d11c68494e6c33d59e926aef8d26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\c43fcdb7dd21ab69602d941056f93dd5444335a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efcc8cc2bf4df6e703f15b2aab7dfee0e84b4cb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_2d1be61b2c44edcc6b75908f77b4de7886b69918\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.5.1_f638714e0acfbb5271b4e7ace945ced0cf6571c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.gradle\caches\modules-2\files-2.1\com.mhit.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_c0ad45381bb0cce0fd0bcdd6cf5f980aa6a2261e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\6869e1bec5f4bef86b7801e23f4d713897f6422e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ef9b04dfe3fa8e4efb27925992a874ba77d73b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_beb13a33212ee25a932e4049ce8b042582a26482\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp\www\android\ContactLoader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d860ca2464a251a81408c93edeb0a6a567f32de7">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0178370bd0271bebe19fc58a7d34542527da1180\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\c7e09a7364aaeb1af84fbb534a5d85bd72d35c3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e9ea86d47d0565f1881e515596004f2e98805dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\b3d0aa8ee1b6543c85237e137adc9d7f2a3758fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f42489b2c97fe7724154fce0ee1058656cb20fe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\9dff9a153c1c1566f6191662a2b538552e193cae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_151a926457ae2bb5f7e8e54ca22e6c5377df82a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.android\build-cache\9813f9d0327d875f5223d17843303880c9802870\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3060a34b7dcf260ab0ccea3d70abaaddb3a4eb4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davis\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_2a1332231819c7e070292dd604b85c15391cc3ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp\www\android\ContactLoader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\wamp\www\android\ContactLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0b79afe1332d49ac300b598ef3920be417114e17\classes.dex" />
+    </item>
+
+</items>
